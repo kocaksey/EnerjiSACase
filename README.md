@@ -6,3 +6,4 @@
 <img width="323" alt="05" src="https://github.com/kocaksey/EnerjiSACase/assets/83529848/8daf0ace-8a71-4488-b06a-877f0de15575">
 <img width="323" alt="06" src="https://github.com/kocaksey/EnerjiSACase/assets/83529848/85f12bdf-b29a-4c18-93db-4db227d07784">
 <img width="323" alt="07" src="https://github.com/kocaksey/EnerjiSACase/assets/83529848/22693986-5338-4318-9cf0-9597b677dd3f">
+<img width="323" alt="08" src="https://github.com/kocaksey/EnerjiSACase/assets/83529848/8f4e2199-8afe-48f7-bfbf-9ed487853cde">
